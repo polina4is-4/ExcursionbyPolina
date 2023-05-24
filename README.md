@@ -2,7 +2,7 @@
 #Посети Карелию
 #Петрозаводск
 
-Website with private ecourses 
+Website with private Excursions
 #Visit Karelia
 #Petrozavodsk
 
