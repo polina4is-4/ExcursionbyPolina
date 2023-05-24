@@ -6,4 +6,6 @@ Website with private Excursions
 #Visit Karelia
 #Petrozavodsk
 
---https://excursionbypolina.ucoz.net/Excursion/index.html-- Ссылка на сайт
+
+--Ссылка на сайт--
+https://excursionbypolina.ucoz.net/Excursion/index.html
